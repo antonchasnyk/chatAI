@@ -104,5 +104,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/.idea
 
 /bot_settings.py
